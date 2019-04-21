@@ -12,4 +12,7 @@ import lombok.Data;
 @Data
 @Builder
 public class Info {
+    private String name;
+    private String age;
+
 }
